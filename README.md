@@ -1,0 +1,2 @@
+# zhenxun_plugin_genshin_speak
+原神角色语音合成
