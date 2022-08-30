@@ -1,11 +1,12 @@
 # zhenxun_plugin_genshin_speak
 # 原神说-角色语音合成
-使用https://www.bilibili.com/video/BV1rB4y157fd的api进行原神角色语音合成
-api来源[VITS 原神语音合成](https://github.com/w4123/vits)
-请勿用于商业用途和违法用途
-    [角色名]说[内容]
-    [角色名]快速说[内容]
-    [角色名]慢慢说[内容]
++ 使用https://www.bilibili.com/video/BV1rB4y157fd的api进行原神角色语音合成
++ api来源[VITS 原神语音合成](https://github.com/w4123/vits)
++ 请勿用于商业用途和违法用途
++ 使用方法
+- [角色名]说[内容]
+- [角色名]快速说[内容]
+- [角色名]慢慢说[内容]
 
 ## 角色列表
 |                            |                            |                           |                           |                                                          |
